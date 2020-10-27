@@ -1,0 +1,9 @@
+# ignore all
+/*
+
+# whitelist
+!Dockerfile
+!go.sum
+!go.mod
+!main.go
+!slackbot.go
